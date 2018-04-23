@@ -1,5 +1,7 @@
-# My Awesome Book
+# CSUnplugged-zh 《不插电的计算机科学》
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+zh translation files for the book CSUnplugged.
 
-github test
+The current version is 3.2.2.
+
+Original web site: http://csunplugged.org/
