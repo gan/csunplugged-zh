@@ -14,5 +14,11 @@
     * [活动学习单6: 更多关于二进制数的知识](/1Data/9Activity1Sheet6.md)
     * [这个活动在说什么？](/1Data/10Activity1Conclusion.md)
     * [答案和提示](/1Data/11Answers.md)
+    * [用数字表示颜色 — 图像展示](/1Data/12Act2Image.md)
+    * [用数字表示颜色1](/1Data/13Act2Image1.md)
+    * [用数字表示颜色2](/1Data/14Act2Image2.md)
+    * [活动学习单1: 儿童传真](/1Data/15Act2Sheet1.md)
+    * [活动学习单2.1: 做出自己的图片](/1Data/16Act2Sheet2.md)
+    * [活动学习单2.2: 做出自己的图片](/1Data/17Act2Sheet2.md)
 * Chapter 2
 
