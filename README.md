@@ -1,4 +1,4 @@
-# CSUnplugged-zh 《不插电的计算机科学》
+# CSUnplugged-zh 《不插电的计算机科学》
 
 zh translation files for the book CSUnplugged.
 

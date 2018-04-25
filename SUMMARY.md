@@ -9,16 +9,15 @@
     * [活动学习单1: 二进制数](/1Data/4Activity1Sheet1.md)
     * [活动学习单2: 使用二进制表示数字](/1Data/5Activity1Sheet2.md)
     * [活动学习单3: 传送秘密信息](/1Data/6Activity1Sheet3.md)
-    * [活动学习单4: 电子邮件与数据机](/1Data/7Activity1Sheet4.md) 
+    * [活动学习单4: 电子邮件与数据机](/1Data/7Activity1Sheet4.md)
     * [活动学习单5: 数到31以上](/1Data/8Activity1Sheet5.md)
     * [活动学习单6: 更多关于二进制数的知识](/1Data/9Activity1Sheet6.md)
     * [这个活动在说什么？](/1Data/10Activity1Conclusion.md)
     * [答案和提示](/1Data/11Answers.md)
-    * [用数字表示颜色 — 图像展示](/1Data/12Act2Image.md)
+  * [活动2 - 用数字表示颜色 — 图像展示](/1Data/12Act2Image.md)
     * [用数字表示颜色1](/1Data/13Act2Image1.md)
     * [用数字表示颜色2](/1Data/14Act2Image2.md)
     * [活动学习单1: 儿童传真](/1Data/15Act2Sheet1.md)
     * [活动学习单2.1: 做出自己的图片](/1Data/16Act2Sheet2.md)
     * [活动学习单2.2: 做出自己的图片](/1Data/17Act2Sheet2.md)
 * Chapter 2
-
