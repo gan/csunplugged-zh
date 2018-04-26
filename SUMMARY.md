@@ -20,4 +20,9 @@
     * [活动学习单1: 儿童传真](/1Data/15Act2Sheet1.md)
     * [活动学习单2.1: 做出自己的图片](/1Data/16Act2Sheet2.md)
     * [活动学习单2.2: 做出自己的图片](/1Data/17Act2Sheet2.md)
+    * [这个活动在说什么？](/1Data/18Act2Conclusion.md)
+    * [答案和提示](/1Data/19Act2Answers.md)
+  * [活动3 - “你说什么？” - 文字压缩](/1Data/20Act3Text.md)
+    * [“你说什么？”](/1Data/21Act3Text1.md)
+    * [活动学习单：“你说什么？”](/1Data/23Act3Sheet1.md)
 * Chapter 2
