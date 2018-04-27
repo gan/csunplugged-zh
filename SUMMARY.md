@@ -25,4 +25,8 @@
   * [活动3 - “你说什么？” - 文字压缩](/1Data/20Act3Text.md)
     * [“你说什么？”](/1Data/21Act3Text1.md)
     * [活动学习单：“你说什么？”](/1Data/23Act3Sheet1.md)
-* Chapter 2
+    * [这个活动在说什么？](/1Data/25Act3Conclusion.md)
+  * [活动4 - 翻转卡片魔术 - 错误的检测和修正](/1Data/27Act4Error1.md)
+    * [魔术般的技巧](/1Data/28Act4Error2.md)
+    * [一个现实的范例：书码与条码](/1Data/29Act4Error3.md)
+* 第二部分
