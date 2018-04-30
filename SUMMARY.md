@@ -33,4 +33,7 @@
   * [活动5 - 二十个问题 - 信息理论](/1Data/33Act5Info.md)
     * [二十个问题](/1Data/34Act5Info1.md)
     * [活动：二十个问题](/1Data/35Act5Info2.md)
+    * [活动学习单1: 决策树](/1Data/36Act5Sheet1.md)
+    * [这个活动在说什么？](/1Data/37Act5Conclusion.md)
+    * [答案和提示](/1Data/38Act5Answers.md)
 * 第二部分
