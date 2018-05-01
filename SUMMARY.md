@@ -2,7 +2,7 @@
 
 * [前言](/0Introduction/Introduction.md)
 * [特别鸣谢](/0Introduction/Acknowledgements.md)
-* [数据：最原始的材料](/1Data/1Data.md)
+* [第一部分 - 数据：最原始的材料](/1Data/1Data.md)
   * [活动1 - 计算“点”-二进制数](/1Data/2Activity1Binary.md)
     * [素材：二进制数](/1Data/2.1resources.md)
     * [二进制数](/1Data/3BinaryNumbers.md)
@@ -36,4 +36,9 @@
     * [活动学习单1: 决策树](/1Data/36Act5Sheet1.md)
     * [这个活动在说什么？](/1Data/37Act5Conclusion.md)
     * [答案和提示](/1Data/38Act5Answers.md)
-* 第二部分
+* [第二部分 - 让计算机运行：算法](/2Algo/1Algo.md)
+  * [活动6 - 海战棋：搜索算法](/2Algo/2Act1Sheet1.md)
+    * [海战棋活动 — 暖身](/2Algo/2Act1Sheet2.md)
+    * [线性搜索游戏](/2Algo/2Act1Sheet3.md)
+    * [二元搜索游戏](/2Algo/2Act1Sheet4.md)
+    * [哈希法搜索](/2Algo/2Act1Sheet5.md)
