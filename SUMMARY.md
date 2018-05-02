@@ -42,3 +42,6 @@
     * [线性搜索游戏](/2Algo/4Act1Sheet3.md)
     * [二元搜索游戏](/2Algo/5Act1Sheet4.md)
     * [哈希法搜索](/2Algo/6Act1Sheet5.md)
+    * [延伸活动](/2Algo/7Act1Sheet6.md)
+    * [这个活动在说什么？](/2Algo/8Act1Conclusion.md)
+  * [活动7 — 从最重到最轻：排序算法](/2Algo/9Act2Sort.md)
